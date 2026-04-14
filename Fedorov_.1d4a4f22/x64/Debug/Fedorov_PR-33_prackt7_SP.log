@@ -1,0 +1,3 @@
+﻿  Fedorov_PR-33_prackt7_SP.cpp
+C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt7_SP\Fedorov_PR-33_prackt7_SP.cpp(181,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Fedorov_PR-33_prackt7_SP.vcxproj -> C:\Users\st310-05\Desktop\Fedorov_PR-33_prackt7_SP\x64\Debug\Fedorov_PR-33_prackt7_SP.exe
